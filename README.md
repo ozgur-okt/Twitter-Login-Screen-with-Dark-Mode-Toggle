@@ -12,7 +12,7 @@ git clone https://github.com/ozgur-okt/Twitter-Login-Screen-with-Dark-Mode-Toggl
 
 ```
 ### How it seems:
-For the reason of its gif structure, colors seem a little blured and low-resolution in dark mode.
+P.S.: For the reason of representation's gif structure below, colors seem a little blured and low-resolution in dark mode.
 
 ![twitter](https://user-images.githubusercontent.com/73358116/149764119-d51ddf53-e603-45c4-b720-654a03a9f3a6.gif)
 

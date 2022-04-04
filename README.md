@@ -8,7 +8,7 @@ Here, I cloned the Twitter login page and added a toogle switch for dark mode.
 For installation, clone the repository and run the index.html to start the server.
 
 ```sh
-git clone https://github.com/ozgur-okt/Twitter-Login-Screen-with-Dark-Mode-Toggle
+git clone https://github.com/ozgur-okt/twitter-login-screen-with-dark-mode-toggle
 
 ```
 ### How it seems:
